@@ -401,6 +401,7 @@ nav {
     height: 50px;
   }
   .heading {
+    text-align: center;
     font-size: 1.5rem;
     background-color: #ffecec;
   }
@@ -441,6 +442,7 @@ nav {
     height: 50px;
   }
   .heading {
+    text-align: center;
     font-size: 1.5rem;
     background-color: #ffecec;
   }
@@ -523,6 +525,7 @@ nav {
     height: 50px;
   }
   .heading {
+    text-align: center;
     font-size: 1.5rem;
     background-color: #ffecec;
   }
@@ -566,6 +569,7 @@ nav {
     font-size: 16px;
   }
   .heading {
+    text-align: center;
     background-color: #ffecec;
   }
   .logo {
@@ -586,6 +590,7 @@ nav {
   }
 
   .heading {
+    text-align: center;
     background-color: #ffecec;
   }
 }
@@ -600,6 +605,7 @@ nav {
     width: 70px;
   }
   .heading {
+    text-align: center;
     background-color: #ffecec;
   }
 }

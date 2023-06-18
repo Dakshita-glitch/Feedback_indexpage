@@ -376,7 +376,7 @@ nav {
     position: relative;
     padding: 10px;
     color: #ffffff;
-    margin-top: 800px;
+    margin-top: auto;
   }
   .footer-content {
     z-index: 1;
@@ -500,7 +500,7 @@ nav {
     position: relative;
     padding: 10px;
     color: #ffffff;
-    margin-top: 800px;
+    margin-top: auto;
   }
   .footer-content {
     z-index: 1;

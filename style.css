@@ -371,7 +371,7 @@ nav {
 @media (max-width: 300px) and (min-width: 250px) {
   footer {
     background-color: #9b2928;
-    width: 106vw;
+    /* width: 106vw; */
     text-align: center;
     position: relative;
     padding: 10px;
@@ -411,7 +411,7 @@ nav {
 @media (max-width: 350px) and (min-width: 300px) {
   footer {
     background-color: #9b2928;
-    width: 106vw;
+    /* width: 106vw; */
     text-align: center;
     position: relative;
     padding: 10px;
@@ -452,7 +452,7 @@ nav {
 @media (max-width: 400px) and (min-width: 350px) {
   footer {
     background-color: #9b2928;
-    width: 106vw;
+    /* width: 106vw; */
     text-align: center;
     position: relative;
     padding: 10px;
@@ -493,7 +493,7 @@ nav {
 @media (max-width: 450px) and (min-width: 400px) {
   footer {
     background-color: #9b2928;
-    width: 106vw;
+    /* width: 106vw; */
     text-align: center;
     position: relative;
     padding: 10px;
@@ -544,7 +544,7 @@ nav {
   }
   footer {
     background-color: #9b2928;
-    width: 106vw;
+    /* width: 106vw; */
     text-align: center;
     position: relative;
     padding: 10px;

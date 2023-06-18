@@ -417,7 +417,7 @@ nav {
     position: relative;
     padding: 10px;
     color: #ffffff;
-    margin-top: 900px;
+    margin-top: auto;
   }
   .footer-content {
     z-index: 1;

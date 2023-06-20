@@ -884,7 +884,7 @@ h3::before {
     }
   }
 
-  @media only screen and (max-width: 500px) {
+  /* @media only screen and (max-width: 500px) {
     .flexcard {
       width: 35%;
       margin-top: 20px;
@@ -893,7 +893,7 @@ h3::before {
     img.flexcardimgItem {
       width: 50%;
     }
-  }
+  } */
   
   @media only screen and (max-width: 800px) {
     .flexcard {

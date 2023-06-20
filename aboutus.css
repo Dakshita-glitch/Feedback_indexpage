@@ -751,16 +751,16 @@ h3::before {
 	}
 	
 	h3 {
-		font-size: 2rem;
+		font-size: 2.25rem;
 		margin: 0 0 2rem;
 	}
+    p{
+        font-size: 1rem;
+    }
 	
 	h3::before {
 		margin-right: 1.5rem;
 	}
-  /* p{
-    font-size: 0.5rem;
-  } */
 }
 
 /* Cards */
@@ -880,20 +880,9 @@ h3::before {
     }
   
     img.flexcardimgItem {
-      width: 50%;
+      width: 30%;
     }
   }
-
-  /* @media only screen and (max-width: 500px) {
-    .flexcard {
-      width: 35%;
-      margin-top: 20px;
-    }
-  
-    img.flexcardimgItem {
-      width: 50%;
-    }
-  } */
   
   @media only screen and (max-width: 800px) {
     .flexcard {

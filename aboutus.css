@@ -682,7 +682,7 @@ body {
 p {
 	margin: 0;
 	line-height: 1.6;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     text-align: justify;
 }
 
@@ -874,6 +874,17 @@ h3::before {
   /* RESPONSİVE */
   
   @media only screen and (max-width: 1100px) {
+    .flexcard {
+      width: 35%;
+      margin-top: 20px;
+    }
+  
+    img.flexcardimgItem {
+      width: 50%;
+    }
+  }
+
+  @media only screen and (max-width: 500px) {
     .flexcard {
       width: 35%;
       margin-top: 20px;
